@@ -1,3 +1,9 @@
+# Generating Random Animals with React
+
+# Acknowledgements
+## Code and Styling from Udemy: Stephen Grider - Modern React with Redux
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
